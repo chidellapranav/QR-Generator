@@ -14,7 +14,7 @@ This project is a simple web application that generates QR codes for user-provid
 - **Responsive Design:** Works on both desktop and mobile screens.
 
 ## Demo:
-Check out the live demo: [Link to demo (if hosted on GitHub Pages or other service)](https://your-username.github.io/qr-code-generator)
+Check out the website [here].(https://chidellapranav.github.io/QR-Generator/)
 
 ## Installation:
 1. **Clone the repository:**
